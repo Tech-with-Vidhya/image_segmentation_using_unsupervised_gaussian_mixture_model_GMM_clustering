@@ -1,0 +1,2 @@
+# image_segmentation_using_unsupervised_gaussian_mixture_model_GMM_clustering
+This project deals with the segmentation of various images into clusters using UnSupervised Gaussian Mixture Model (GMM) Clustering Algorithm.  The project involves below steps in the life-cycle and implementation.  1. Image Exploration 2. Image Pre-Processing and Reshaping 3. Model Fitting 4. Model Predictions and Validations 5. Visualising the Segmented Image
